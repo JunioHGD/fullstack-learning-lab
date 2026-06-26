@@ -1,0 +1,26 @@
+# Exercícios — 00.01 — O que é HTML e seu papel na Web
+
+Use esta pasta para guardar exercícios práticos relacionados ao tópico **O que é HTML e seu papel na Web**.
+
+## Sugestão de organização
+
+```txt
+exercises/
+├── 01-nome-do-exercicio/
+│   ├── index.html
+│   └── README.md
+└── 02-nome-do-exercicio/
+    ├── index.html
+    └── README.md
+```
+
+## Critérios para bons exercícios
+
+- O exercício deve praticar pelo menos uma aula do tópico.
+- O código deve ser simples e focado no conceito estudado.
+- O `README.md` do exercício deve explicar objetivo, requisitos e resultado esperado.
+- Quando fizer sentido, o exercício pode ser expandido depois para um projeto em `docs/projects/`.
+
+## Aulas relacionadas
+
+- 00.01.01 — O papel do HTML na Web
