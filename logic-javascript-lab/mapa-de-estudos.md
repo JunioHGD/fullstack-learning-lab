@@ -10,7 +10,7 @@
 
 ## LJS-01 — Pensamento Computacional e Algoritmos
 
-- [x] [LJS-01.01 — Pensamento computacional e decomposição](./blocos/ljs-01-pensamento-computacional-e-algoritmos/unidades/ljs-01-01-pensamento-computacional-e-decomposicao/README.md) — Essencial
+- [ ] [LJS-01.01 — Pensamento computacional e decomposição](./blocos/ljs-01-pensamento-computacional-e-algoritmos/unidades/ljs-01-01-pensamento-computacional-e-decomposicao/README.md) — Essencial
 - [ ] [LJS-01.02 — Modelo de algoritmo e pseudocódigo](./blocos/ljs-01-pensamento-computacional-e-algoritmos/unidades/ljs-01-02-modelo-de-algoritmo-e-pseudocodigo/README.md) — Essencial
 - [ ] [LJS-01.03 — Estrutura básica de programa (I/O)](./blocos/ljs-01-pensamento-computacional-e-algoritmos/unidades/ljs-01-03-estrutura-basica-de-programa-io/README.md) — Essencial
 
