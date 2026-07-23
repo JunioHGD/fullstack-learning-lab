@@ -25,7 +25,3 @@ O conteúdo está distribuído em blocos e unidades. Cada unidade contém uma re
 ## Mapa de estudos
 
 Consulte o [mapa de estudos](./mapa-de-estudos.md) para visualizar a progressão completa.
-
-## Idioma
-
-O nome do repositório está em inglês. A documentação e a organização interna estão em português, preservando termos oficiais do JavaScript.
